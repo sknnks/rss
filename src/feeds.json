@@ -1,27 +1,8 @@
 {
   "manga": [
-    "https://themagicofanimation.tumblr.com/rss",
-    "https://3dnchu.com/feed/",
-    "https://animeartbookscans.tumblr.com/rss",
-    "https://kamitokatachi.hatenablog.com/rss",
-    "https://animationtidbits.tumblr.com/rss",
-    "https://yoshi-x2.tumblr.com/rss",
-    "https://kbtrip.tumblr.com/rss",
-    "https://moaang.tumblr.com/rss",
-    "https://brittseureka7.tumblr.com/rss",
-    "https://h0saki.tumblr.com/rss",
-    "https://piyox22.tumblr.com/rss",
-    "https://krmgn.tumblr.com/rss"
+    "https://3dnchu.com/feed/"
   ],
   "other": [
-    "https://we.poppur.com/forum.php?mod=rss&amp;fid=298&amp;auth=2249ZtkJMWCtJ+0CiZcohoF4iXKlJcGTnY87Wn/u1X2QqGIM3uV853jcLzkCLPk",
-    "https://code.blender.org/index.php/feed/",
-    "https://feeds.feedburner.com/Blendernation",
-    "https://chromium.woolyss.com/feed/windows-64-bit",
-    "https://blog.csdn.net/doomgt/rss/list",
-    "https://linuxtoy.org/feeds/all.atom.xml",
-    "https://51.ruyo.net/feed/",
-    "https://www.cnbeta.com/backend.php",
-    "https://feed.cnblogs.com/blog/u/143917/rss
+    "https://chromium.woolyss.com/feed/windows-64-bit"
   ]
 }
